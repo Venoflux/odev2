@@ -89,7 +89,7 @@ namespace Koleksiyonlar_Soru_1
         }
 
         /// <summary>
-        /// Listenin ortalamasını verir
+        /// Listenin toplamını verir
         /// </summary>
         /// <returns>listenin int toplam sayısı</returns>
         private static int Total(List<uint> list)
