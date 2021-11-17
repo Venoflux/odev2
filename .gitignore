@@ -270,4 +270,8 @@ FakesAssemblies/
 *.code-workspace
 
 # Local History for Visual Studio Code
+<<<<<<< HEAD
 .history/
+=======
+.history/
+>>>>>>> 4c84c7ff81fd1477714665237f823414440c1e3c
